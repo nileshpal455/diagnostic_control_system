@@ -38,7 +38,7 @@ main.cpp
 g++ main.cpp sensor.cpp controller.cpp logger.cpp -o diagnostic_system.exe
 .\diagnostic_system.exe
 
-
+📂 Logs Output Example
 
 Thu Oct 30 15:25:09 2025
  - ✅ Normal: Temperature | Value: 65.000000
